@@ -7,7 +7,7 @@ Minimalist dashboard tracking my financial engines, econometric forecasting mode
 ## 📊 1. Financial Modeling & Valuation
 *Detailed, fully dynamic 3-statement models built for complex structural industries.*
 
-* **[Faysal Bank Limited (FABL) — 3-Statement Model](./Faysal_Bank_Model.md)**
+* **[Faysal Bank Limited (FABL) — 3-Statement Model](./Faysal-Bank-Model.md)**
   * *Description:* Fully integrated 3-statement engine adapting a corporate template into a specialized banking asset-liability spread framework. Features automated non-cash loan provisioning add-backs, credit allowance reversal offsets, and Basel III institutional metrics (ADR/IDR).
   * *Tech Stack:* Advanced Excel, Corporate Finance, FI Accounting.
 
