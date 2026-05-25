@@ -23,4 +23,4 @@ The dashboard successfully diagnosed critical margin killers: while the APAC reg
 
 ---
 ### 🔗 Live Interactive Link
-https://tinyurl.com/BI-ghazi
+[Click Here to Launch Interactive Dashboard](https://tinyurl.com/BI-ghazi)
