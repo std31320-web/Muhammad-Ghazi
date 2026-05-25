@@ -36,4 +36,4 @@
 
 ---
 ### 🔗 Research Documentation & Artifacts
-* 📄 **[Access Full Research Paper PDF](./Research_Project_MTP.pdf)** 
+* 📄 **[Access Full Research Paper PDF](./Research-Project-MTP.pdf)** 
