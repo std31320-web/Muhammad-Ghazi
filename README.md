@@ -29,4 +29,5 @@ Minimalist dashboard tracking my financial engines, econometric forecasting mode
   * *Description:* A comparative Power BI dashboard visualizing macro indicators, trade vulnerabilities, and volatility spreads across South Asian regional economies. 
   * *Tech Stack:* Power BI, DAX, Data Warehousing, Visual Storytelling.
 
----# Muhammad-Ghazi
+
+
