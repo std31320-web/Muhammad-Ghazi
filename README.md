@@ -20,6 +20,10 @@ Minimalist dashboard tracking my financial engines, econometric forecasting mode
   * *Description:* Time-series macroeconomic study utilizing ARDL and VECM modeling in EViews. Analyzes how widening structural gaps in the mining sector affect national current account balances over a 10-year forecast horizon.
   * *Tech Stack:* EViews, ARDL, VECM, Cointegration Diagnostics.
 
+* **[Financial Deepening & Monetary Transmission: US vs. Pakistan](./Monetary-Transmission-Research.md)**
+  * *Description:* Comparative empirical study utilizing a 5-variable VECM framework to evaluate the Asset Price Monetary Transmission Mechanism. Quantifies the structural wealth effect, housing market stickiness (ECT), and emerging market "Price Puzzle" phenomena.
+  * *Tech Stack:* EViews, Vector Error Correction Modeling (VECM), Johansen Cointegration, Impulse Response Diagnostics, Macroeconomic Theory.
+
 ---
 
 ## 🗺️ 3. Data Visualization & Business Intelligence
