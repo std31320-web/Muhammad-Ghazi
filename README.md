@@ -16,7 +16,7 @@ Minimalist dashboard tracking my financial engines, econometric forecasting mode
 ## 📈 2. Econometric Modeling & Quantitative Research
 *Rigorous statistical forecasting frameworks mapping macroeconomic indicators.*
 
-* **[Mineral Export Deficit (MXD) & Current Account Impact](./MXD-Econometric-Analysis)**
+* **[Mineral Export Deficit (MXD) & Current Account Impact](./Reko-Diq-Research.md)**
   * *Description:* Time-series macroeconomic study utilizing ARDL and VECM modeling in EViews. Analyzes how widening structural gaps in the mining sector affect national current account balances over a 10-year forecast horizon.
   * *Tech Stack:* EViews, ARDL, VECM, Cointegration Diagnostics.
 
@@ -25,7 +25,7 @@ Minimalist dashboard tracking my financial engines, econometric forecasting mode
 ## 🗺️ 3. Data Visualization & Business Intelligence
 *Interactive executive dashboards designed to simplify complex macroeconomic datasets.*
 
-* **[South Asian Macroeconomic Volatility Tracker](./South-Asian-BI-Dashboard)**
+* **[South Asian Macroeconomic Volatility Tracker](./South-Asian-BI-Dashboard.md)**
   * *Description:* A comparative Power BI dashboard visualizing macro indicators, trade vulnerabilities, and volatility spreads across South Asian regional economies. 
   * *Tech Stack:* Power BI, DAX, Data Warehousing, Visual Storytelling.
 
