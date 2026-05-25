@@ -39,3 +39,5 @@ Minimalist dashboard tracking my financial engines, econometric forecasting mode
   * *Description:* Multi-page executive Power BI dashboard diagnosing margin erosion across global supply chain networks. Pinpoints logistics inefficiencies and discount leaks via high-density KPI tables and regional matrix cross-filtering.
   * *Tech Stack:* Power BI, DAX, Corporate Performance Management, Supply Chain Analytics.
 
+---
+
